@@ -1,8 +1,10 @@
 # BlurryIdentity
  Crystallize your identity on the webcam
 
-##### Language: ```python```
-##### Library: ```opencv``` - ```pyvirtualcam```
+![GitHub User's stars](https://img.shields.io/github/stars/kinite-gp%2FBlurryIdentity?style=for-the-badge&logo=star)
+![Static Badge](https://img.shields.io/badge/Language-python-gold?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Library-opencv_%26_pyvirtualcam-green?style=for-the-badge)
+
 
 ## Demo
 <img width='50%' src="https://github.com/kinite-gp/BlurryIdentity/blob/main/res/gif.gif?raw=true" alt="Camera Preview"/>
